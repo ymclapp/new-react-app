@@ -1,5 +1,8 @@
 ### Dependencies
-1.  
+1.  React
+2.  React-Router-Dom - 5.0.0
+3.  Bootstrap
+4.  React-Bootstrap
 
 
 ###  Referenced
